@@ -1,0 +1,3 @@
+プルリクエストテスト
+git config --global user.name "osk_stylish"
+git config --global user.email "fate3158@gmail.com"
